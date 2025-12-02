@@ -5,7 +5,7 @@ This project demonstrates a multi-pipeline workflow orchestrated using Apache Ai
 It includes end-to-end processes such as ETL (Extract–Transform–Load), API data processing, and data quality validation, using Python functions, XComs, and Airflow task orchestration.
 The workflows simulate real-world data engineering scenarios by coordinating ingestion, transformation, and validation tasks in a modular and scalable design.
 
-![image alt]()
+![image alt](https://github.com/Charvi-M-J/Airflow/blob/main/multi_pipeline_final_dag-graph.png?raw=true)
 
 📁 Pipeline Overview
 1️⃣ ETL Pipeline (Extract → Transform → Load)
